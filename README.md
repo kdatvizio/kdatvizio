@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kdatvizio
-- 👀 I’m interested in AI, VR, AR, DevOps
-- 🌱 I’m currently learning Confluence, Jira
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 
 <!---
 kdatvizio/kdatvizio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
